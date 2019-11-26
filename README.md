@@ -1,4 +1,4 @@
-Regular exression query app
+Regular expression query app
 ===========================
 This is an app where you can research strings in text using regular expressions
 
@@ -7,4 +7,4 @@ This is an app where you can research strings in text using regular expressions
 
 2. Install the required modules using `pip install -r requirements.txt`.
 
-3. Finished ! You can now use the app by opening `main.pyw` (executable version ariving soon).
+3. Finished ! You can now use the app by opening `main.py` (executable version ariving soon).
